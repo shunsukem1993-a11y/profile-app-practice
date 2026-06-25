@@ -64,3 +64,22 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+# profile-app-practice
+
+## 概要
+COACHTECH 教材 Tutorial 9-1「Laravel基礎ハンズオン」で作成した成果物です。
+Laravelでルート、コントローラー、ビューを用いて自己紹介ページを作成
+
+## 使用技術
+- PHP 8.x
+- Laravel 10.x
+- Blade テンプレート
+
+## 学んだこと
+- コントローラーはデータを受け取り、ビューにデータを受け渡しレスポンスを返す
+- コントローラーでビューを受け渡すときは変数を用いる
+- http://localhost/profileで動作確認できる
+
+## 動作確認
+Dockerを起動しhttp://localhost/profileを開く
